@@ -1,1 +1,3 @@
- Emergency Social Media Trainer is a tool that helps emergency responders practice monitoring social media in a non-emergency setting. The goal of this tool is to help emergency responders understand the types of information they might encounter over social media during an emergency event.
+Emergency Social Media Trainer is a tool that helps emergency responders practice monitoring social media in a non-emergency
+setting. The goal of this tool is to help emergency responders understand the types of information they might encounter over
+social media during an emergency event.
